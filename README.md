@@ -3,7 +3,6 @@
     <head>
         <meta charest="UTF-8">
         <link rel="stylesheet" href="styles.css">
-        <title>This is my title</title>
     </head>
     <body>
         <a href="https://e.tb.cn/h.SAO90O1hzco0ROB?tk=2IR0fKphS0n">ttt</a>
