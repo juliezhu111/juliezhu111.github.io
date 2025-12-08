@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charest="UTF-8">
+        <link rel="stylesheet" href="styles.css">
+        <title>Current Trends</title>
+    </head>
+    <body>
+        <h1>Current Photo/Video Trends24</h1>
+        <h2 style="color:rgb(7, 83, 93)">Photo with AI</h1>
+        <p>Many people use AI to make photos and videos. AI can change your face, make new pictures, or create short videos from simple words. It is fast and easy, so many people like it. You do not need a real camera or a real place. You can make many cool styles, like cartoon style, movie style, or art style. AI helps people create fun and new content every day. This trend is very popular on social media because people can make great pictures with very little work. AI makes creating photos and videos simple and creative
+</p>
+        <h2 style="color:rgb(112, 28, 173)">Video without AI</h2>
+        <p>Another big trend is real photos and real videos. People like pictures that look natural and show real life. These photos may not be perfect, but they feel warm, true , and honest.  Many people take photos of daily life, like food, friends, travel, or the sky. The photos can be a little blurry or dark, and that is okay. This style shows real moments and real feelings. It helps people feel close to the story in the photo or video. This trend is popular because people want simple, real, and natural content.
+</p>
+    </body>
+</html>
